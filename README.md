@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=꾸준하자&fontSize=40)
+https://capsule-render.vercel.app/api?
+ 
+ <div align="center">
+ 
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=꾸준하자!&fontSize=90)
+
+ </div>
 
  <h1 align="center">
   JaeHyuk:smile:
