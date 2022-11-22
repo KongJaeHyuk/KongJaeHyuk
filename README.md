@@ -15,7 +15,7 @@
    :lollipop:Since 2022.06 늦둥이 코린이!:lollipop:
   </h3>
   <h3>
-  <a> :star2:Skill:star2: </a>
+  <a> :star2:Skills:star2: </a>
   </h3>
    <div dir="auto">
   <img src="https://img.shields.io/badge/JAVA-A9225C?style=flat-square"/>
