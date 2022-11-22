@@ -12,7 +12,7 @@
  <div align="center">
  :four_leaf_clover:Introduction
   <h3>
-    :lollipop:늦둥이 코린이!:lollipop:
+   :lollipop:Since 2022.06 늦둥이 코린이!:lollipop:
   </h3>
   <h3>
   <a> :star2:Skill:star2: </a>
