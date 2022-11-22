@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=꾸준하자&fontSize=40)
 
  <h1 align="center">
   JaeHyuk:smile:
@@ -31,7 +32,6 @@
  </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kongjaehyuk)](https://github.com/Kongjaehyuk/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kongjaehyuk)](https://github.com/Kongjaehyuk/github-readme-stats)
 
  [![Solved.ac
