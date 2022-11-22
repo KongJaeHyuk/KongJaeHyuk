@@ -1,5 +1,6 @@
-<center><h1>안녕 난 재혁</h1></center>
-
+<center>
+  <h1>안녕 난 재혁</h1>
+</center>
 
 **KongJaeHyuk/KongJaeHyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
