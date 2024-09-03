@@ -6,13 +6,13 @@
  </div>
 
  <h1 align="center">
-  JaeHyuk:smile:
+  JaeHyuk
  </h1>
 
  <div align="center">
  :four_leaf_clover:Introduction
   <h3>
-   :lollipop:Since 2022.06 늦둥이 코린이!:lollipop:
+   :lollipop:안녕하세요!:lollipop:
   </h3>
   <h3>
   <a> :star2:Skills:star2: </a>
