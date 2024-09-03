@@ -42,7 +42,5 @@
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogur3ekd)](https://solved.ac/wogur3ekd)
  
- <h1> :house:Work Environment:house: </h1>
- <img src="./KakaoTalk_20221123_010055244.jpg" height="400px" width = "600px" />
 </div>
 
