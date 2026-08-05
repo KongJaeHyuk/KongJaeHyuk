@@ -36,9 +36,6 @@
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
  </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kongjaehyuk)](https://github.com/Kongjaehyuk/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kongjaehyuk)](https://github.com/Kongjaehyuk/github-readme-stats)
-
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogur3ekd)](https://solved.ac/wogur3ekd)
  
